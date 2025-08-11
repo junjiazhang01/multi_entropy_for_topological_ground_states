@@ -1,3 +1,6 @@
+## Figure Generation
+All relevant figures are generated in plot_new.ipynb.
+
 ## Data Files
 * **File Format**: <br>
 The data are stored in .csv files with the first column corresponding to L or u (corresponding to files with
