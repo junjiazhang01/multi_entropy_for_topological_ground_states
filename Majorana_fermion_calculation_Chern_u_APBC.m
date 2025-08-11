@@ -1,6 +1,6 @@
 lx = 50;
-u_start = 1;
-u_end = 2;
+u_start = 0;
+u_end = 3;
 u_list = u_start+0.01:0.01:u_end;
 y_ratio = [1 1 2];
 x_ratio = [1 1 2];
@@ -205,4 +205,5 @@ function HermitianM = make_hermitian(M)
         end
     end
 end
+
 
